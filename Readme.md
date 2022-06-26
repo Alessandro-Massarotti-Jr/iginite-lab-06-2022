@@ -5,9 +5,13 @@ Projeto desenvolvido durante o ignite lab de 06/2022, com a proposta de criar um
 ## setup
 
 Run `npm install` to download the project dependencies
+
 Fill `.env.local` file with correct information
+
 Run `npm run dev` to start development server
+
 Run `npm run codegen` if you need create graphql queries and mutaions hooks using Graphql-codegem
+
 ## tecnologias utilizadas
 
 - [React](https://reactjs.org/)
