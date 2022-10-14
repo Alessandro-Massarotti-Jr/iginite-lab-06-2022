@@ -2,6 +2,8 @@
 
 Projeto desenvolvido durante o ignite lab de 06/2022, com a proposta de criar uma plataforma de eventos utilizando o React para estruturar o projeto e consumindo uma API em Graphql fornecida pelo GraphCMS.
 
+<img src="./src/assets/igniteLab062022.png" alt="ScreenShot"/>
+
 ## setup
 
 Run `npm install` to download the project dependencies
